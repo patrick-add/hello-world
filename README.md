@@ -1,2 +1,2 @@
-# hello-world
-hello-world
+# PRIMEIRO EXERCICIO
+O repositorio contém um arquivo js que imprimi na tela "hello-world". 
